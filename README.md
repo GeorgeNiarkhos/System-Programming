@@ -4,11 +4,6 @@
  
  Νιάρχος Γεώργιος 1115201500109
 
-# Περιεχόμενα  
-- [Project 1](https://github.com/GeorgeNiarkhos/System-Programming#user-content-Project-1)
-- [Project 2](https://github.com/GeorgeNiarkhos/System-Programming#user-content-Project-2)
-- [Project 2](https://github.com/GeorgeNiarkhos/System-Programming#user-content-Project-3)
-
 # Project 1
 
 
@@ -20,6 +15,7 @@
 
 # Οδηγίες εκτέλεσης
 Υπάρχει Makefile για την μεταγλώτιση και εκτέλεση του προγράμματος.
+
 -Project 1
 ```sh
 $ make
